@@ -1,14 +1,5 @@
 # 🛒 E-Commerce 🛍
- 
-<BR><BR><BR> 
 
-<B>Part 1 - [Android App]()   - currently viewing <BR>
-   Part 2 - [Flutter Mobile App]()     <BR> 
-   Part 3 - [Web App using MERN Stack Technology]()      <BR>
-   Part 4 - [Desktop Application using JavaFX, MySQL & JDBC]()   <BR>
-     <BR><BR><BR>
-   <H3> <div align="center">Part 1 - Android App</div>       </H3>   <BR><BR><BR>
-</B>
  
  
 
@@ -181,5 +172,6 @@ This app uses [***MVVM (Model View View-Model)***](https://developer.android.com
  
  
  
+
 
 
