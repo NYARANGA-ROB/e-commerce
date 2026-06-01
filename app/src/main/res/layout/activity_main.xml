@@ -17,6 +17,7 @@
     android:fitsSystemWindows="true"
     
     tools:openDrawer="start"
+    
     tools:context=".view.MainActivity">
 
 <androidx.constraintlayout.widget.ConstraintLayout
