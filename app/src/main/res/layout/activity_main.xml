@@ -15,6 +15,7 @@
     android:id="@+id/drawerlayout"
     
     android:fitsSystemWindows="true"
+    
     tools:openDrawer="start"
     tools:context=".view.MainActivity">
 
