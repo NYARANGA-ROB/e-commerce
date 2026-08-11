@@ -8,7 +8,6 @@ public class LoginUtils {
     private static final String SHARED_PREF_NAME = "shared_preference";
     private static LoginUtils mInstance;
     private Context mCtx;
-
     private LoginUtils(Context mCtx) {
         this.mCtx = mCtx;
     }
