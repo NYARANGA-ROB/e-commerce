@@ -1,5 +1,4 @@
 package dev.atharvakulkarni.e_commerce.storage;
-
 import android.content.Context;
 import android.content.SharedPreferences;
 
