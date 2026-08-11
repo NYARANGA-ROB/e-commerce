@@ -6,7 +6,6 @@ import dev.atharvakulkarni.e_commerce.view.User;
 
 public class LoginUtils {
     private static final String SHARED_PREF_NAME = "shared_preference";
-
     private static LoginUtils mInstance;
     private Context mCtx;
 
