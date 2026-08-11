@@ -23,7 +23,6 @@ public class LoginUtils {
   /*  public void saveUserInfo(LoginApiResponse response) {
         SharedPreferences sharedPreferences = mCtx.getSharedPreferences(SHARED_PREF_NAME, Context.MODE_PRIVATE);
         SharedPreferences.Editor editor = sharedPreferences.edit();
-
         editor.putInt("id", response.getId());
         editor.putString("name", response.getName());
         editor.putString("email", response.getEmail());
