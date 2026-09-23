@@ -21,7 +21,6 @@ The Website, Android App, Flutter App & Flutter Web App are connected to each ot
 </div>
 
 
-
   - Displaying exact reason for order return
   - Google Maps & a article on it
 - Poster
