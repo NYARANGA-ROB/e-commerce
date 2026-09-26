@@ -21,7 +21,6 @@
         <activity android:name=".view.CartActivity">
 
 
-
         </activity>
         <activity android:name=".view.show_product">
         </activity>
