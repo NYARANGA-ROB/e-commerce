@@ -27,7 +27,6 @@
                 android:layout_height="match_parent"
                 android:orientation="vertical"
                 android:gravity="center">
-
                 <ImageView
                     android:id="@+id/imageview"
                     android:layout_width="100dp"
