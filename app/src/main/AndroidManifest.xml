@@ -29,7 +29,6 @@
         </activity>
         <activity android:name=".view.order_placing">
 
-
         </activity>
         <activity android:name=".view.AllCategoryActivity"/>
         <activity android:name=".view.MyOrdersActivity"/>
