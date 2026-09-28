@@ -1,6 +1,5 @@
 package dev.atharvakulkarni.e_commerce.ViewModel;
 import android.app.Application;
-
 import androidx.annotation.NonNull;
 import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.LiveData;
